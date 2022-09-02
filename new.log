@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  13 JUL 2022 11:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.13)  2 SEP 2022 17:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/farha/OneDrive/Desktop/Codieren/new.tex
-(c:/Users/farha/OneDrive/Desktop/Codieren/new.tex
+**c:/Users/farha/Documents/Codieren/new.tex
+(c:/Users/farha/Documents/Codieren/new.tex
 LaTeX2e <2022-06-01> patch level 3
 L3 programming layer <2022-06-16> (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -51,15 +51,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {C:/Users/farha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (new.aux) ) 
 Here is how much of TeX's memory you used:
- 428 strings out of 478351
- 8258 string characters out of 2846868
+ 429 strings out of 478351
+ 8217 string characters out of 2846867
  304814 words of memory out of 3000000
- 18926 multiletter control sequences out of 15000+600000
+ 18927 multiletter control sequences out of 15000+600000
  469259 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,5n,38p,179b,107s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 34i,5n,38p,172b,107s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on new.pdf (1 page, 34964 bytes).
+Output written on new.pdf (1 page, 35763 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
